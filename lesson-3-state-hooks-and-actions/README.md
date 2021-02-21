@@ -14,13 +14,9 @@
 
 ### Learning Assignments:
 
-+ [useReducer example](https://reactjs.org/docs/hooks-reference.html#usereducer)
-+ [3 Reasons to use useReducer](https://dev.to/spukas/3-reasons-to-usereducer-over-usestate-43ad)
-+ [Video Overview - The useReducer Hook](https://www.youtube.com/watch?v=sYDFCuZHrqw&list=FLnQng1ZBlOdZm943xu6OyAw&index=32)
++ [React documentation on useState()](https://reactjs.org/docs/hooks-state.html)
++ Learn about the React hook `useState()`. Follow along with this [popular tutorial](https://www.youtube.com/watch?v=9xhKH43llhU), which is about 15 minutes long.
 
 ### Practice:
 
 [Practice Exercises](./practice/exercises.md)
-
-## Lecture Recordings
-[04.28.20 Lecture](https://us02web.zoom.us/rec/share/-9FxJezg7WZIcI3o2BHcHfQzH6LpX6a8hChKqPZZmEgvHCzutA_Dfxi-4kq15YN1)

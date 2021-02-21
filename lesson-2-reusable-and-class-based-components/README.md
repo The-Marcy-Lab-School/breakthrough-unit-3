@@ -28,23 +28,36 @@ You will analyze the component structure of a legacy, class-based component duri
 
 ### Steps:
 
-1. Setup:
+1. Answer the [short answer questions](practice/short-response.md) about class based components before moving on to step 4.
 
-   - `cd lesson-8.9-class-based-components/practice`
-   - `npm install`
-   - `npm start`
-   - open a browser window and navigate to `http://localhost:3000/`
+2. Imagine you are working for an E-Commerce application that sells products with different categories. The data for your products looks like this:
 
-2. Familiarize yourself with the app and file structure. Then open <ClassBasedForm/> within the components directory.
+```js
+[
+   {
+      'id': 1,
+      'name': 'Hammer',
+      'priceInCents': 1000,
+      'categories': ['tools', 'home',],
+   },
+   {
+      'id': 2,
+      'name': 'Coffee mug',
+      'priceInCents': 495,
+      'categories': ['dining', 'home',],
+   },
+   {
+      'id': 3,
+      'name': 'Small Wooden Table',
+      'priceInCents': 47000,
+      'categories': ['dining', 'home',],
+   },
+   // ...
+]
 
-3. Answer the [short answer questions](practice/short-response.md) about class based components before moving on to step 4.
+```
 
-4. Create a new component named "FunctionBasedForm" and place it into the components directory.
+What re-usable components might you create that could be used in the different category pages? 
 
-5. Replace the imports in <App.js> so that <FunctionBasedForm/> is rendered on localhost rather than <ClassBasedForm/>.
 
-6. Code out the <FunctionBasedForm/> so that it maintains the same functionality as <ClassBasedForm/>, but using functional components and hooks rather than classes.
-
-## Lecture Recording
-[05.01.20 Lecture](https://us02web.zoom.us/rec/share/2clRMKriqFhIf8_u6gLPcZZ6IcP-X6a82nNP8vQEzR5-2xGu7vqi7pamL9ciy3Tm)
-
+3. Implement the component system you designed above using functinoal components. 

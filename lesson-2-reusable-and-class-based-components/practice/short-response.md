@@ -19,8 +19,6 @@
 
 2. Describe the purpose behind passing props to the function calls for `constructor()` and `super()`.
 
-3) How does `useState()` functionally different from `this.setState()`?
+3. Based on your knowledge of functional programming and object-oriented programming, what might some of the benefits be of using functional components with hooks rather than class-based components?
 
-4. Based on your knowledge of functional programming and object-oriented programming, what might some of the benefits be of using functional components with hooks rather than class-based components?
-
-5) Imagine a developer prefers to use class-based components in React and not hooks, is this allowable by the React community?
+4. Imagine a developer prefers to use class-based components in React and not hooks, is this allowable by the React community?

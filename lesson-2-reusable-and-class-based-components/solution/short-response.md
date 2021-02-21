@@ -2,7 +2,7 @@
 
 ## Short Response Answers
 
-### 1. What is the purpose of the constrctor in the following code snippet from <ClassBasedForm/>:
+### 1. What is the purpose of the constrctor in the following code snippet from a class based component:
 
 ```javascript
     constructor(props) {
@@ -15,7 +15,7 @@
     }
 ```
 
-The constructor for a React component is called before it is mounted. Here, the purpose of the constructor is to 1) initalize the local state for the email and password and 2) bind the handleSubmit event handler method to an instance of the <ClassBasedForm/>.
+The constructor for a React component is called before it is mounted. Here, the purpose of the constructor is to 1) initalize the local state for the email and password and 2) bind the handleSubmit event handler method to an instance of the component.
 
 ### 2. Describe the purpose behind passing props to the function calls for `constructor()` and `super()`.
 
