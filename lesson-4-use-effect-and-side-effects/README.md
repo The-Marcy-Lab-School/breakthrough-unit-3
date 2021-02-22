@@ -9,7 +9,6 @@
 
 ### Essential Questions:
 
-+ What tools does React give us for handling async data?
 + In programming, what are side effects? Why do we want to isolate side effects?
 + How can the `useEffect` hook help us deal with side effects?
 

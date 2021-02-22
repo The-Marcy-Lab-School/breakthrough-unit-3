@@ -4,7 +4,7 @@
 
 ### Directions: Type out your response directly under each prompt.
 
-1. What is the purpose of the constrctor in the following code snippet from <ClassBasedForm/>:
+1. What is the purpose of the constrctor in the following code snippet from a class based component:
 
 ```javascript
     constructor(props) {
