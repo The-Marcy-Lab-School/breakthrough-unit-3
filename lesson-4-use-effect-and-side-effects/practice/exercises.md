@@ -8,4 +8,6 @@
 
 3. Once your test suite is passing, how might you improve the code quality? What are some patterns we can use to make our code more readable and easier to maintain?
 
-4. TODO: Add question around adding a new Pokemon (use your own server)
+4. Write an application that mimics an e-commerce site. The app should render a home page. When visiting the site for the first time, we should should them a modal overlay with the following text "Would you like to receive 15% off?", an input to enter their email address, a button that yes "YES" and a button that says "NOT RIGHT NOW"
+   * If they enter something in the email input and click "YES", we should not should them the modal overlay on their next visit.
+   * If they click "NOT RIGHT NOW", we should continue to show the modal on each subsequent visit to the site. 

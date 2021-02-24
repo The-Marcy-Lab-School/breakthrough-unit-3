@@ -7,13 +7,11 @@
 + `render`
 + React DOM
 + Virtual DOM
-+ JSX
 
 ### Essential Questions:
 
 + What is React? Why has it become so popular?
 + What is a component? How does this paradigm differ from model-view-controller?
-+ What is JSX?
 
 ### Learning Assignments:
 
