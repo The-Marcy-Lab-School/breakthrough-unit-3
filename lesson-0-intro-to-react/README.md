@@ -1,4 +1,4 @@
-# Lesson 8.0 - Intro to React
+# Lesson 3.0 - Intro to React
 
 ### Key Terms:
 

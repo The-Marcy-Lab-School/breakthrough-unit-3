@@ -1,4 +1,4 @@
-# Lesson 8.2 - Working with State
+# Lesson 3.2 - Working with State
 
 ### Key Terms:
 

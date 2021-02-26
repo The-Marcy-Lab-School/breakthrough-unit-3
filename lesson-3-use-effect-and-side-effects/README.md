@@ -1,4 +1,4 @@
-# Lesson 8.3 - Async and useEffect
+# Lesson 3.3 - Async and useEffect
 
 ### Key Terms:
 
@@ -6,11 +6,13 @@
 + `useEffect`
 + pure functions
 + dependency array
++ `useRef`
 
 ### Essential Questions:
 
 + In programming, what are side effects? Why do we want to isolate side effects?
 + How can the `useEffect` hook help us deal with side effects?
++ What is the `useRef` hook? Why is this useful?
 
 ### Learning Assignments:
 
