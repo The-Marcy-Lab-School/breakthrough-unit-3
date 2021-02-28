@@ -1,4 +1,4 @@
-# Practice Exercises - 8.3 Async and Use Effect
+# Practice Exercises - Async and Use Effect
 
 0. In your own words, describe what a pure function is? Why are they important?
 

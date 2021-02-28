@@ -1,4 +1,4 @@
-# Practice Exercises 8.0
+# Practice Exercises 
 
 0. In your own words, describe some of the features of React. What makes it so popular?
 

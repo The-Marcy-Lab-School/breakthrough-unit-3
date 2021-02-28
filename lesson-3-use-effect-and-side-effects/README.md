@@ -1,4 +1,4 @@
-# Lesson 3.3 - Async and useEffect
+#  Async and useEffect
 
 ### Key Terms:
 

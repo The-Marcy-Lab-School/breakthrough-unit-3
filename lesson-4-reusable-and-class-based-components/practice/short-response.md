@@ -1,4 +1,4 @@
-# Lesson 8.9: Class Based Components
+# Lesson: Class Based Components
 
 ## Short Response Questions
 

@@ -1,4 +1,4 @@
-# Lesson 3.4: Class Based Components
+# Lesson: Class Based Components
 
 ## Lesson Overview
 

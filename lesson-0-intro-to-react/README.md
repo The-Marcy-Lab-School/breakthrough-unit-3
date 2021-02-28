@@ -1,4 +1,4 @@
-# Lesson 3.0 - Intro to React
+# Intro to React
 
 ### Key Terms:
 

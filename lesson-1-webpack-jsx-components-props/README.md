@@ -1,4 +1,4 @@
-# Lesson 3.1: Props vs State
+# Props vs State
 
 ### Key Terms
 - Webpack

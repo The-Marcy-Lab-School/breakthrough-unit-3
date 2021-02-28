@@ -1,4 +1,4 @@
-# Practice Exercises 8.2
+# Practice Exercises 
 
 0. Why is state important in web applications? What are some examples of pieces of state that might exist in a ToDo list application?
 
